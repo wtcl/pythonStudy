@@ -1,0 +1,6 @@
+person_name=input("Please input your name: ")
+dream_place=input("Please input the place: ")
+print()
+print('世界那么大，{}想去{}看看.'.format(person_name, dream_place))
+print("The world is so wonderful, %s wants to go to %s."% (person_name,dream_place))
+print('The world is so beautiful，'+ person_name + ' wants to go to '+ dream_place + '.')
